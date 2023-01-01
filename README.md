@@ -22,7 +22,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/tSQHsIE.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://user-images.githubusercontent.com/20358558/210184477-e83f69cd-83b5-4c69-9e1d-bb1b3c228c2f.mp4
+
+[Video Walkthrough web link](https://i.imgur.com/tSQHsIE.mp4)
 
 Video was created using [Kap](https://getkap.co/)
 
